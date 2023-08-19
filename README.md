@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**dal-index/dal-index** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daloy.
 
-Here are some ideas to get you started:
+Just building stuff on the internet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly working on web development, automation, experiments, and tools that solve small real problems. I enjoy keeping things simple, fast, and practical.
+
+### Stack
+
+- JavaScript / TypeScript
+- Vue / React
+- Node.js
+- PHP / Laravel
+- Python
+- SQL / NoSQL
+- Serverless stuff
+
+### Interests
+
+- UI/UX
+- Automation
+- AI integrations
+- Developer tools
+- Embedded apps
+- Performance optimization
+
+### Current focus
+
+- Building quietly
+- Learning continuously
+- Shipping more projects
+
+---
+
+> Code, improve, repeat.
